@@ -1,0 +1,20 @@
+app:
+  rate-booking-duration: 120
+  default-base-currency: GBP
+  default-additional-pip: 1
+  forex-rate-api-url: http://localhost:3000
+
+
+debug: false
+    
+logging:
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} %p %class{36}.%M - %m%n"
+  level:
+    space:
+      gavinklfong: INFO
+    org:
+      springframework:
+        r2dbc: INFO
+        
+       
