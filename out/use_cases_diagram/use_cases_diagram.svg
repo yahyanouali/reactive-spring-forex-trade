@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="270.8333px" preserveAspectRatio="none" style="width:808px;height:270px;background:#00000000;" version="1.1" viewBox="0 0 808 270" width="808.3333px" zoomAndPan="magnify"><defs/><g><!--MD5=[0ba5ee7700168656dc1b457c6fe9fdac]
+entity Client--><polygon points="32.3377,99.9437,31.1162,101.6127,29.6714,104.0574,27.605,105.7048,25.4336,106.6058,23.7023,106.684,21.477,105.5572,19.3774,104.8212,17.7837,103.3267,16.9478,101.6157,16.452,100.2534,15.9663,98.474,15.178,96.9428,15.7838,95.4477,16.3145,93.81,18.3063,92.5148,19.7075,90.8342,21.442,90.2761,23.5039,89.7955,26.148,90.081,27.5963,90.764,29.2801,91.0736,31.3274,93.1712,32.0411,95.3856,32.3512,96.8965,32,99.3863" style="stroke:#333333;stroke-width:1.5625;fill:none;"/><path d="M23.9583,106.25 L24.1529,106.25 L23.5747,111.875 L24.1373,117.5 L24.3284,123.125 L23.2978,128.75 L23.9583,134.375 M10.4167,114.5833 L10.4167,114.5114 L15.8333,114.1884 L21.25,114.2282 L26.6667,114.5202 L32.0833,113.9432 L37.5,114.5833 M23.9583,134.375 L24.3457,134.7107 L20.809,137.1178 L18.4033,140.5051 L16.1356,144.0119 L13.065,146.823 L10.4167,150 M23.9583,134.375 L24.0061,134.4164 L26.6443,137.4806 L29.4999,140.7333 L32.2507,143.895 L35.2015,147.2302 L37.5,150 " fill="none" style="stroke:#333333;stroke-width:1.5625;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacing" textLength="35.4167" x="6.25" y="173.6877">Client</text><polygon points="462.0885,42.4647,459.1948,47.7903,448.1502,51.8425,435.4775,55.8796,425.0159,60.5685,405.2778,63.242,387.2459,66.1148,366.0816,67.9684,342.7633,68.8565,322.5122,69.7669,295.0451,68.3347,277.5176,68.1755,254.8489,65.9228,233.0376,62.8143,217.7545,60.0418,202.3988,56.1577,190.9102,52.0315,181.3995,47.2928,175.8596,42.4404,172.7378,37.2269,174.1913,32.2325,179.4655,27.4241,189.8033,23.2184,200.8717,18.8327,214.7108,14.8776,237.4915,12.8651,251.4643,9.1105,276.2284,8.039,295.1217,6.1895,321.7538,6.6654,342.7646,6.6949,361.736,7.1678,385.7868,9.7207,404.5709,12.1716,420.9525,15.1827,435.4136,18.8724,448.9119,23.4353,456.4852,27.7531,465.1113,33.276,463.5852,37.4797" style="stroke:#333333;stroke-width:2.0833333333333335;fill:none;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacing" textLength="209.375" x="215.1543" y="40.4782">Retreive Foreign Currrency Rates</text><polygon points="458.4859,141.1626,455.66,146.3733,444.8742,150.3381,432.4985,154.2881,422.282,158.8759,403.0065,161.4917,385.3971,164.3025,364.7288,166.1161,341.9569,166.9851,322.1804,167.8758,295.357,166.4745,278.2402,166.3187,256.1027,164.1147,234.8025,161.0733,219.8776,158.3606,204.8817,154.5603,193.6624,150.5231,184.3745,145.8866,178.9645,141.1389,175.9158,136.0378,177.3353,131.1512,182.4858,126.4465,192.5814,122.3315,203.3905,118.0404,216.9053,114.1706,239.152,112.2016,252.7974,108.5279,276.9812,107.4796,295.4318,105.6699,321.4398,106.1356,341.9582,106.1645,360.485,106.6272,383.9722,109.125,402.3161,111.523,418.3138,114.4692,432.436,118.0793,445.618,122.5437,453.0138,126.7684,461.4378,132.1721,459.9474,136.2852" style="stroke:#333333;stroke-width:2.0833333333333335;fill:none;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacing" textLength="201.0417" x="219.0517" y="139.2785">Submit Foreign Currrency Deals</text><polygon points="458.4859,239.0793,455.66,244.29,444.8742,248.2548,432.4985,252.2048,422.282,256.7926,403.0065,259.4084,385.3971,262.2192,364.7288,264.0328,341.9569,264.9017,322.1804,265.7925,295.357,264.3912,278.2402,264.2354,256.1027,262.0314,234.8025,258.9899,219.8776,256.2772,204.8817,252.4769,193.6624,248.4397,184.3745,243.8032,178.9645,239.0555,175.9158,233.9545,177.3353,229.0678,182.4858,224.3632,192.5814,220.2481,203.3905,215.9571,216.9053,212.0873,239.152,210.1182,252.7974,206.4446,276.9812,205.3962,295.4318,203.5866,321.4398,204.0523,341.9582,204.0811,360.485,204.5439,383.9722,207.0417,402.3161,209.4396,418.3138,212.3858,432.436,215.996,445.618,220.4604,453.0138,224.685,461.4378,230.0888,459.9474,234.2018" style="stroke:#333333;stroke-width:2.0833333333333335;fill:none;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacing" textLength="201.0417" x="219.0517" y="237.1952">Retreive Foreign Currency Deals</text><polygon points="800.1773,140.4446,797.9811,144.8604,789.5989,148.2203,779.9809,151.5678,772.041,155.4556,757.0609,157.6724,743.3756,160.0544,727.3129,161.5913,709.6155,162.3277,694.2459,163.0826,673.3998,161.8951,660.0974,161.7631,642.8929,159.8953,626.3392,157.3178,614.7402,155.0189,603.0859,151.7984,594.3667,148.3771,587.1486,144.4479,582.9441,140.4245,580.5748,136.1016,581.6779,131.9604,585.6807,127.9735,593.5266,124.4862,601.927,120.8498,612.4302,117.5704,629.7195,115.9017,640.3242,112.7885,659.1189,111.9,673.458,110.3665,693.6704,110.7611,709.6165,110.7856,724.0148,111.1777,742.2682,113.2945,756.5244,115.3266,768.9571,117.8234,779.9324,120.8827,790.1769,124.6661,795.9247,128.2463,802.4714,132.8256,801.3132,136.3112" style="stroke:#333333;stroke-width:2.0833333333333335;fill:none;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacing" textLength="128.125" x="628.1568" y="139.2689">Reserve Rate Boxing</text><!--MD5=[17eb8bd5bfcea0e4ff4b7858a1316637]
+link Client to RFCR--><path d="M47.3333,123.9375 L47.3772,124.0244 L50.2479,122.2514 L53.3757,120.9877 L56.4198,119.5582 L59.1887,117.5833 L62.3385,116.3633 L62.324,116.3304 L65.4159,114.7851 L68.5813,113.4056 L71.7976,112.1415 L74.8381,110.48 L78.125,109.375 L78.2177,109.6139 L81.5019,107.7513 L85.0568,106.5862 L88.6448,105.5063 L92.0405,103.9312 L95.5374,102.6165 L95.5483,102.6462 L99.1022,101.2954 L102.7057,100.0797 L106.2853,98.7988 L109.9103,97.6422 L113.387,96.0804 L113.489,96.3739 L117.1134,95.1186 L120.672,93.674 L124.3269,92.5065 L127.9864,91.352 L131.5028,89.786 L131.3978,89.4691 L135.2437,88.8775 L138.7439,87.2423 L142.507,86.4006 L145.9993,84.7417 L149.7135,83.7526 L149.704,83.7224 L153.4443,82.9292 L156.9605,81.4298 L160.609,80.3472 L164.2686,79.2995 L167.8481,77.9995 L167.9043,78.1838 L171.425,76.907 L175.0418,75.9452 L178.5032,74.4738 L182.1963,73.7626 L185.7354,72.5459 L185.8069,72.7894 L189.2871,71.7164 L192.8029,70.7643 L196.1536,69.2505 L199.6252,68.1484 L203.2041,67.4112 L203.1255,67.1344 L206.5725,66.4256 L209.9309,65.405 L213.4179,64.8367 L216.6854,63.4961 L220.0833,62.6146 " fill="none" style="stroke:#333333;stroke-width:3.125;"/><polygon fill="#333333" points="225.1354,61.2083,225.1461,61.2805,223.0846,60.7655,221.0858,60.6738,219.0666,60.4442,216.9802,59.7614,214.9868,59.7059,214.9735,59.6824,215.9401,60.1566,216.9736,60.7492,218.0536,61.4241,218.9733,61.8152,220.1175,62.6038,220.2849,62.6984,219.3474,63.5224,218.8986,64.6224,218.5094,65.756,217.7733,66.6938,217.2196,67.7346,217.2347,67.7529,218.7957,66.4208,220.4254,65.1719,222.0219,63.8829,223.6816,62.6705,225.1354,61.2083" style="stroke:#333333;stroke-width:3.125;"/><!--MD5=[1eb600fae248aef47040dbdb33e6c2f7]
+link Client to SFCD--><path d="M47.0833,136.4583 L47.0833,136.7503 L57.5538,135.8829 L68.0243,136.7268 L78.4948,137.0134 L88.9653,135.4675 L99.4358,136.3504 L109.9063,135.866 L120.3767,135.9257 L130.8472,136.3637 L141.3177,135.4981 L151.7882,137.2273 L162.2587,135.5829 L172.7292,136.4583 " fill="none" style="stroke:#333333;stroke-width:3.125;"/><polygon fill="#333333" points="178.0938,136.4583,178.1234,136.525,176.1603,135.4935,174.371,134.853,172.5251,134.0851,170.4931,132.8986,168.7188,132.2917,168.6997,132.2726,169.4474,133.0203,170.2913,133.8642,171.202,134.7749,171.8823,135.4553,172.8854,136.4583,173.0213,136.5943,171.8973,137.1369,171.1702,138.0764,170.4915,139.0644,169.531,139.7706,168.7188,140.625,168.7284,140.6467,170.5892,139.7815,172.4939,139.015,174.3775,138.2009,176.3013,137.4775,178.0938,136.4583" style="stroke:#333333;stroke-width:3.125;"/><!--MD5=[a1b5b3b77f2f49de0949c7d60f440574]
+link Client to RFCD--><path d="M47.0833,143.8229 L47.1756,144.0999 L56.8822,146.6038 L67.1298,150.7311 L77.2013,154.3298 L86.6933,156.1899 L96.9533,160.3543 L106.7809,163.2215 L116.7806,166.6049 L126.8999,170.3471 L136.607,172.8527 L147.1346,177.82 L156.5954,179.5867 L166.7662,183.4834 L177.0236,187.6399 L186.777,190.2845 L196.8255,193.8141 L206.7623,197.0089 L216.8355,200.613 L226.843,204.0196 L236.7188,207.0313 " fill="none" style="stroke:#333333;stroke-width:3.125;"/><polygon fill="#333333" points="241.7083,208.6979,241.7574,208.7519,240.0938,207.2107,238.718,205.9861,237.2484,204.6583,235.4706,202.9917,234.1195,201.7941,234.0954,201.782,234.5162,202.7808,235.0585,203.8407,235.6853,204.9429,236.0208,205.899,236.7643,207.0598,236.8506,207.2316,235.6129,207.3932,234.6272,208.0564,233.6722,208.7807,232.5384,209.149,231.4986,209.7046,231.5009,209.7282,233.5395,209.4922,235.5886,209.3636,237.6326,209.1832,239.6863,209.1016,241.7083,208.6979" style="stroke:#333333;stroke-width:3.125;"/><!--MD5=[aa7ba0d3ad4dd6d8c788158af0c2bcf8]
+link SFCD to RRB--><path d="M461.625,136.4583 L461.625,136.7503 L472.0833,135.8829 L482.5417,136.7268 L493,137.0134 L503.4583,135.4675 L513.9167,136.3504 L524.375,135.866 L534.8333,135.9257 L545.2917,136.3637 L555.75,135.4981 L566.2083,137.2273 L576.6667,136.4583 " fill="none" style="stroke:#333333;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#333333" points="582,136.4583,582.0296,136.525,580.0666,135.4935,578.2773,134.853,576.4314,134.0851,574.3994,132.8986,572.625,132.2917,572.6059,132.2726,573.3536,133.0203,574.1975,133.8642,575.1083,134.7749,575.7886,135.4553,576.7917,136.4583,576.9276,136.5943,575.8036,137.1369,575.0764,138.0764,574.3977,139.0644,573.4373,139.7706,572.625,140.625,572.6346,140.6467,574.4955,139.7815,576.4002,139.015,578.2837,138.2009,580.2076,137.4775,582,136.4583" style="stroke:#333333;stroke-width:3.125;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacing" textLength="42.7083" x="502.0833" y="124.2086">include</text><!--MD5=[978815bc3ffc17607c6fe68bbc0d0718]
+@startuml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/sandstone/puml-theme-sandstone.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/sketchy/puml-theme-sketchy.puml
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/sketchy-outline/puml-theme-sketchy-outline.puml
+
+
+left to right direction
+
+:Client: as Client
+(Retreive Foreign Currrency Rates) as RFCR
+(Submit Foreign Currrency Deals) as SFCD
+(Retreive Foreign Currency Deals) as RFCD
+(Reserve Rate Boxing) as RRB
+
+Client - - -> RFCR
+Client - - -> SFCD
+Client - - -> RFCD
+SFCD ..> RRB : include
+
+
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+skinparam handwritten true
+skinparam shadowing false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Segoe Print"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #555555
+skinparam stereotype {
+    CBackgroundColor transparent
+    CBorderColor #4d4d4d
+    ABackgroundColor transparent
+    ABorderColor #24963e
+    IBackgroundColor transparent
+    IBorderColor #c6303e
+    EBackgroundColor transparent
+    EBorderColor #e6ae06
+    NBackgroundColor transparent
+    NBorderColor #1592a6
+}
+skinparam title {
+	FontColor	                 #2e2e2e
+	BorderColor	                 #4d4d4d
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              transparent
+}
+
+skinparam legend {
+	BackgroundColor transparent
+	BorderColor #4d4d4d
+	FontColor #2e2e2e
+}
+
+skinparam swimlane {
+	BorderColor #17a2b8
+	BorderThickness 2
+	TitleBackgroundColor  transparent
+	TitleFontColor #2e2e2e
+}
+
+
+skinparam activity {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	BarColor #28a745
+	StartColor #17a2b8
+	EndColor #17a2b8
+	DiamondBackgroundColor transparent
+  	DiamondBorderColor #4d4d4d
+  	DiamondFontColor #2e2e2e
+}
+
+
+skinparam participant {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #333333
+	FontColor #2e2e2e
+}
+
+
+skinparam sequence {
+	BorderColor #333333
+	TitleFontColor #2e2e2e
+	BackgroundColor transparent
+	StartColor #333333
+	EndColor #333333
+	BoxBackgroundColor transparent
+	BoxBorderColor #555555
+	BoxFontColor #555555
+	DelayFontColor #555555
+	LifeLineBorderColor #555555
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #4d4d4d
+	GroupBorderColor #555555
+	GroupFontColor #555555
+	GroupHeaderFontColor #17a2b8
+	GroupBackgroundColor #555555
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #555555
+    DividerBorderColor #555555
+    DividerBorderThickness 2
+    DividerFontColor #ffffff
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #555555
+	ReferenceFontColor #555555
+	ReferenceHeaderFontColor #17a2b8
+	ReferenceHeaderBackgroundColor #555555
+	StereotypeFontColor #2e2e2e
+}
+
+
+skinparam partition {
+	BorderColor #333333
+	FontColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam control {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam entity {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam boundary {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam agent {
+	BackgroundColor #ffc107
+	BorderColor #ffc720
+	FontColor #555555
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #17a2b8
+	BorderColor #1592a6
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor transparent
+	BorderColor #4d4d4d
+	FontColor #4d4d4d
+}
+
+
+skinparam component {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam interface {
+	BackgroundColor  transparent
+	BorderColor  #dc3545
+	FontColor #555555
+}
+
+
+skinparam storage {
+	BackgroundColor transparent
+  	BorderColor #e6ae06
+	FontColor #e6ae06
+}
+
+
+skinparam node {
+	BackgroundColor  transparent
+	BorderColor #ffffff
+	FontColor #ffffff
+}
+
+
+skinparam cloud {
+	BackgroundColor transparent
+	BorderColor #F2FCFE
+	FontColor #2e2e2e
+}
+
+
+skinparam database {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam class {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	HeaderBackgroundColor transparent
+	StereotypeFontColor #555555
+	BorderThickness 1
+	AttributeFontColor #555555
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	StereotypeFontColor #2e2e2e
+	BorderThickness 1
+	AttributeFontColor #2e2e2e
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #333333
+}
+
+
+skinparam rectangle {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #333333
+}
+
+
+skinparam package {
+	BackgroundColor transparent
+  	BorderColor #333333
+	FontColor #333333
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor transparent
+  	BorderColor #ffc107
+	FontColor #ffc107
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor transparent
+  	BorderColor #17a2b8
+	FontColor #17a2b8
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	StartColor #17a2b8
+	EndColor #17a2b8
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam card {
+	BackgroundColor transparent
+	BorderColor #1592a6
+	FontColor #1592a6
+}
+
+
+skinparam file {
+	BackgroundColor transparent
+	BorderColor #ffffff
+	FontColor #ffffff
+}
+
+
+
+
+left to right direction
+
+:Client: as Client
+(Retreive Foreign Currrency Rates) as RFCR
+(Submit Foreign Currrency Deals) as SFCD
+(Retreive Foreign Currency Deals) as RFCD
+(Reserve Rate Boxing) as RRB
+
+Client - - -> RFCR
+Client - - -> SFCD
+Client - - -> RFCD
+SFCD ..> RRB : include
+
+
+@enduml
+
+PlantUML version 1.2021.14(Fri Nov 12 17:46:50 CET 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

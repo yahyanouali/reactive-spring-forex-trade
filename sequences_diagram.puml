@@ -1,0 +1,41 @@
+@startuml
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/sketchy-outline/puml-theme-sketchy-outline.puml
+
+autonumber
+participant Client
+participant RateService
+participant RateProviderAPI 
+participant CustomerService
+participant TradeDealService
+
+Client -> RateService : send a booking request
+activate RateService
+
+RateService -> RateProviderAPI : fetch latest rates
+activate RateProviderAPI
+
+RateProviderAPI -> RateService : latest rates
+deactivate RateProviderAPI
+
+RateService -> CustomerService : request customer info
+activate CustomerService
+
+CustomerService -> RateService : cunstomer info
+deactivate CustomerService
+
+note over RateService : decide rate offering \nbased on customer tier \nand amount
+
+RateService -> Client : reserved rate
+deactivate RateService
+
+Client -> TradeDealService : submit forex transaction
+activate TradeDealService
+
+TradeDealService -> RateService : calidate rate booking
+note over TradeDealService : process trade deal
+
+TradeDealService -> Client : trade deal processed
+deactivate TradeDealService
+
+@enduml
+

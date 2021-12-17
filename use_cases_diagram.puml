@@ -1,0 +1,21 @@
+@startuml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/sandstone/puml-theme-sandstone.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/sketchy/puml-theme-sketchy.puml
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/sketchy-outline/puml-theme-sketchy-outline.puml
+
+
+left to right direction
+
+:Client: as Client
+(Retreive Foreign Currrency Rates) as RFCR
+(Submit Foreign Currrency Deals) as SFCD
+(Retreive Foreign Currency Deals) as RFCD
+(Reserve Rate Boxing) as RRB
+
+Client ---> RFCR
+Client ---> SFCD
+Client ---> RFCD
+SFCD ..> RRB : include
+
+
+@enduml
